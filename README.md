@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/its_deepak_chaudhary/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/Aideepakchaudhary/Aideepakchaudhary/blob/master/giphy.gif" align="right" width="55%"/>
+  <img src="https://github.com/Aideepakchaudhary/Aideepakchaudhary/blob/master/giphy.gif" align="right" width="50%"/>
 
 
 
