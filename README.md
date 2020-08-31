@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/its_deepak_chaudhary/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/Aideepakchaudhary/Aideepakchaudhary/blob/master/giphy.gif" align="right" width="50%"/>
+  <img src="https://github.com/Aideepakchaudhary/Aideepakchaudhary/blob/master/giphy.gif" align="right" width="55%"/>
 
 
 
@@ -17,7 +17,10 @@
 - 📫 How to reach me: [Instagram - @aideepakchaudhary](https://www.instagram.com/its_deepak_chaudhary/?hl=en) 
 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: According to all known laws of aviation, there is no way that a bee should be able to fly.
+- ⚡ **fact**: According to all known laws of aviation, there is no way that a bee should be able to fly.
 Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because they don't know the word <strong> Impossible</strong>
+
+
+
 
 ![Deepak](https://github-readme-stats.vercel.app/api?username=Aideepakchaudhary&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
