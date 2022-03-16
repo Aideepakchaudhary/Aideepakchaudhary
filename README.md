@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m a **Programmer**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Substrate**
 - 💬 Ask me about **Data structures and Algorithms**
 - 📫 How to reach me: [Instagram - @aideepakchaudhary](https://www.instagram.com/its_deepak_chaudhary/?hl=en) 
 
