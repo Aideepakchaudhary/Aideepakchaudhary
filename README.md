@@ -21,5 +21,3 @@ Its wings are too small to get its fat little body off the ground. The bee, of c
 
 
 
-
-![Deepak](https://github-readme-stats.vercel.app/api?username=Aideepakchaudhary&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
