@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m a **Programmer**
-- 🌱 I’m currently learning **Substrate**
-- 💬 Ask me about **Data structures and Algorithms**
+- 🔭 I’m a **Blockchain Developer**
+- 🌱 I’m currently working on **Substrate/Polkadot**
+- 💬 Ask me about **Substrate Framework**
 - 📫 How to reach me: [Instagram - @aideepakchaudhary](https://www.instagram.com/its_deepak_chaudhary/?hl=en) 
 
 - 😄 Pronouns: He/His
