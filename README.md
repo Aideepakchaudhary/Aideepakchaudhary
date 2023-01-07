@@ -14,7 +14,7 @@
 - 🔭 I’m a **Blockchain Developer**
 - 🌱 I’m currently working on **Substrate/Polkadot**
 - 💬 Ask me about **Substrate Framework**
-- 📫 How to reach me: [Instagram - @aideepakchaudhary](https://www.instagram.com/its_deepak_chaudhary/?hl=en) 
+- 📫 How to reach me: [LinkedIn - @deepak--chaudhary](https://www.linkedin.com/in/) 
 
 - 😄 Pronouns: He/His
 - ⚡ **fact**: According to all known laws of aviation, there is no way that a bee should be able to fly.
