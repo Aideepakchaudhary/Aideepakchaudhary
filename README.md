@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Substrate**
 
-- 💬 Ask me about **Rust, Substrate, Web3**
+- 💬 Ask me about **Rust, Substrate, Blockchain**
 
 - 📫 How to reach me **aideepakchaudhary@gmail.com**
 
