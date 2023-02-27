@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Substrate/Polkadot**
 
-- 🌱 I’m currently learning **Substrate**
+- 🌱 Learning **Substrate**
 
 - 💬 Ask me about **Rust, Substrate, Blockchain**
 
