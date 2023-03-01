@@ -10,7 +10,7 @@
 
 - 🌱 Learning **Substrate**
 
-- 💬 Ask me about **Rust, Substrate, Blockchain**
+- 💬 Ask me about **Rust, Substrate, Blockchain, Polkadot**
 
 - 📫 How to reach me **aideepakchaudhary@gmail.com**
 
